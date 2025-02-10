@@ -1,0 +1,15 @@
+/Users/frameverse/RiderProjects/arraysInCsharp/bin/Debug/net8.0/arraysInCsharp
+/Users/frameverse/RiderProjects/arraysInCsharp/bin/Debug/net8.0/arraysInCsharp.deps.json
+/Users/frameverse/RiderProjects/arraysInCsharp/bin/Debug/net8.0/arraysInCsharp.runtimeconfig.json
+/Users/frameverse/RiderProjects/arraysInCsharp/bin/Debug/net8.0/arraysInCsharp.dll
+/Users/frameverse/RiderProjects/arraysInCsharp/bin/Debug/net8.0/arraysInCsharp.pdb
+/Users/frameverse/RiderProjects/arraysInCsharp/obj/Debug/net8.0/arraysInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frameverse/RiderProjects/arraysInCsharp/obj/Debug/net8.0/arraysInCsharp.AssemblyInfoInputs.cache
+/Users/frameverse/RiderProjects/arraysInCsharp/obj/Debug/net8.0/arraysInCsharp.AssemblyInfo.cs
+/Users/frameverse/RiderProjects/arraysInCsharp/obj/Debug/net8.0/arraysInCsharp.csproj.CoreCompileInputs.cache
+/Users/frameverse/RiderProjects/arraysInCsharp/obj/Debug/net8.0/arraysInCsharp.sourcelink.json
+/Users/frameverse/RiderProjects/arraysInCsharp/obj/Debug/net8.0/arraysInCsharp.dll
+/Users/frameverse/RiderProjects/arraysInCsharp/obj/Debug/net8.0/refint/arraysInCsharp.dll
+/Users/frameverse/RiderProjects/arraysInCsharp/obj/Debug/net8.0/arraysInCsharp.pdb
+/Users/frameverse/RiderProjects/arraysInCsharp/obj/Debug/net8.0/arraysInCsharp.genruntimeconfig.cache
+/Users/frameverse/RiderProjects/arraysInCsharp/obj/Debug/net8.0/ref/arraysInCsharp.dll
